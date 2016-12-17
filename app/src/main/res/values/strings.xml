@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Autoformation</string>
+    <string name="button_text" value="CLICK">Click</string>
+    <string name="titre" value="Titre">Hello World</string>
+</resources>
